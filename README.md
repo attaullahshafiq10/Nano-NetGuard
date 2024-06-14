@@ -30,8 +30,8 @@ Once the aircrack-ng package is installed, airodump-ng and aireplay-ng should be
 ## Usage
 
 1. Clone the repository or download the script.
-2. Ensure that the script has executable permissions (`chmod +x wifideauth.sh`).
-3. Run the script using `sudo ./wifideauth.sh`.
+2. Ensure that the script has executable permissions (`chmod +x NetGuard.sh`).
+3. Run the script using `sudo ./NetGuard.sh`.
 4. Follow the on-screen menu prompts to choose the desired actions.
 
 ## Legal and Ethical Notice
